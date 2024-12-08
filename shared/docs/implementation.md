@@ -1,5 +1,7 @@
 # Rapport d'Implémentation - AI Project : The Connection Game
 
+**Note** : Lors de la rédaction et du débogage, nous avons utilisé **ChatGPT** comme outil d'assistance pour corriger nos explications ainsi que pour débugger notre code.
+
 ## Table des matières
 
 0. [Lien avec la première partie](#0-lien-avec-la-première-partie)
