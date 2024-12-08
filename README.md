@@ -25,6 +25,10 @@ pip install -r requirements.txt
 
 3. Se placer sur la branche principale `v1-main`
 
+```bash
+git checkout v1-main
+```
+
 ## Utilisation
 
 Lancer le programme :
@@ -56,5 +60,5 @@ row, col = 6, 7
 
 ## Auteurs
 
-- Souaibou Dine BARRY (alias dineproject)
+- Souaibou Dine BARRY (@dineproject from github)
 - Zayd ADOUAN
