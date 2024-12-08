@@ -10,8 +10,8 @@ connection-game-ai/
 │ └── visualizer.py # Q2: Interface graphique avec Pygame
 ├── shared/
 │ └── assets/       # Images des tuiles
+│ └── docs/         # Explication de l'implémentation par rapport à l'étude préliminiare
 └── main.py         # Point d'entrée
-
 ```
 
 ## Installation
@@ -62,3 +62,5 @@ row, col = 6, 7
 
 - Souaibou Dine BARRY (@dineproject from github)
 - Zayd ADOUAN
+
+
