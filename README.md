@@ -23,6 +23,8 @@ connection-game-ai/
 pip install -r requirements.txt
 ```
 
+3. Se placer sur la branche principale `v1-main`
+
 ## Utilisation
 
 Lancer le programme :
@@ -44,7 +46,8 @@ row, col = 6, 7
 ![alt text](/shared/assets/image-1.png)
 
 3. L'interface graphique s'ouvre :
-   ![alt text](/shared/assets/image-2.png)
+
+![alt text](/shared/assets/image-2.png)
 
 4. On ferme la fenêtre et on obtient la solution :
 
