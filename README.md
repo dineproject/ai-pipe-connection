@@ -13,6 +13,9 @@ connection-game-ai/
 │ └── docs/         # Explication de l'implémentation par rapport à l'étude préliminiare
 └── main.py         # Point d'entrée
 ```
+## Approche
+
+voir le fichier : [/shared/docs/implementation.md](/shared/docs/implementation.md)
 
 ## Installation
 
